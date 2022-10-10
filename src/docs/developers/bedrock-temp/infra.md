@@ -57,7 +57,7 @@ To learn more about how Bedrock itself works and its motivations, please see [th
 - A stripped-down, read-only version of the legacy (i.e., pre-Bedrock) `l2geth` node.
 - Serves historical data to the Daisy Chain.
 - The Legacy Geth instance will ship with a pre-populated database. 
-  It does not need state synchronization, because that database is real only.
+  It does not need state synchronization, because that database is read only.
 
 ### Daisy Chain
 
